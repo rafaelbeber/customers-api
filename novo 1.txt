@@ -1,0 +1,61 @@
+78.653.946/0001-10
+
+/*const customers = {
+        customers: [{
+            id: 1,
+            name: "Rafael",
+            birthday: "26/12/1979",
+            email: "rafaelbeber@yahoo.com",
+            address:{
+                street: "Rua Brasil",
+                number: "977",
+                complement: "205A",
+                city: "Joinville",
+                state: "Santa Catarina",
+                country: "Brasil",
+                cep: "89222-145"
+            }
+        },{
+            id: 2,
+            name: "Ana Paula",
+            birthday: "23/03/1991",
+            email: "anapaulaschmitt2@gmail.com",
+            address:{
+                street: "Rua Brasil",
+                number: "977",
+                complement: "205A",
+                city: "Joinville",
+                state: "Santa Catarina",
+                country: "Brasil",
+                cep: "89222-145"
+            }
+        },{
+            id: 3,
+            name: "Vilde",
+            birthday: "10/01/1955",
+            email: "vildemariabeber@gmail.com",
+            address:{
+                street: "Rua dos vereadores",
+                number: "S/N",
+                complement: "",
+                city: "Rio do Sul",
+                state: "Santa Catarina",
+                country: "Brasil",
+                cep: "89000-000"
+            }
+        },{
+            id: 4,
+            name: "Isolete",
+            birthday: "10/01/1955",
+            email: "isoleter@gmail.com",
+            address:{
+                street: "Rua Navegantes",
+                number: "609",
+                complement: "",
+                city: "São Francisco do Sul",
+                state: "Santa Catarina",
+                country: "Brasil",
+                cep: "89000-001"
+            }
+        }]
+    };*/
