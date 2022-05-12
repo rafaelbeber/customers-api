@@ -1,7 +1,7 @@
 {
-  "name": "be-customers",
+  "name": "customers-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repository created for my improvement in JavaScript and TypeScript with Node JS.",
   "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,14 +13,22 @@
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.13",
-    "@types/node": "^17.0.23",
+    "@types/node": "^17.0.31",
     "@types/pg": "^8.6.5",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.6.3"
+    "typescript": "^4.6.4"
   },
   "dependencies": {
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "pg": "^8.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbeber/customers-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelbeber/customers-api/issues"
+  },
+  "homepage": "https://github.com/rafaelbeber/customers-api#readme"
 }
